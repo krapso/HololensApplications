@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/background"
+    tools:context="fetr.adam.example.hololenscolorapp.MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal"
+        android:layout_centerInParent="true"
+        android:padding="2dp"
+        android:background="@android:color/darker_gray">
+
+        <View
+            android:layout_height="70dp"
+            android:layout_width="70dp"
+            android:background="#ff0000"
+            android:layout_margin="10dp"
+            android:onClick="ChangeColorToRed"/>
+
+        <View
+            android:layout_height="70dp"
+            android:layout_width="70dp"
+            android:background="#00ff00"
+            android:layout_marginTop="10dp"
+            android:onClick="ChangeColorToGreen"/>
+
+        <View
+            android:layout_height="70dp"
+            android:layout_width="70dp"
+            android:background="#0000ff"
+            android:layout_margin="10dp"
+            android:onClick="ChangeColorToBlue"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
