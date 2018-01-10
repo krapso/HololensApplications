@@ -1,2 +1,0 @@
-C:\Users\adam.fetr\Documents\TestApp4\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
-C:\Users\adam.fetr\Documents\TestApp4\App\Hololens cube colors\Hololens cube colors.csproj;x86
