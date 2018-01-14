@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>ModelExplorer</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\juraj.kostal\Desktop\HolographicAcademy-Holograms-211-Gesture\Completed\GestureExample\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\juraj.kostal\Desktop\HolographicAcademy-Holograms-211-Gesture\Completed\GestureExample\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
