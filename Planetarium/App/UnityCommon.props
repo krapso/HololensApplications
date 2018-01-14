@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>Planetarium</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\juraj.kostal\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\juraj.kostal\Desktop\HolographicAcademy-Holograms-230-SpatialMapping\Completed\Planetarium\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
